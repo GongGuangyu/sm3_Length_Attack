@@ -1,3 +1,5 @@
+# 简介
+其中ConstParameters.py存储sm3常量 main.py实现sm3以及长度扩展攻击
 # sm3_Length_Attack
    1.随机生成一个secret，算出secret的hash值
    2.根据hash值推出第一次压缩之后各个寄存器里的值
