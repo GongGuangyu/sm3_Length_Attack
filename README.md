@@ -8,3 +8,5 @@
    5.第3步和第4步得到的hash值应该相等  
 # 代码中有思路和解释
 ![image](https://user-images.githubusercontent.com/105531474/180178703-615f95c3-e14b-4e1a-8587-200d89e746bd.png)
+# 实验结果
+![image](https://user-images.githubusercontent.com/105531474/180178981-57447d62-6ded-4de3-b541-34b3daee36ae.png)
